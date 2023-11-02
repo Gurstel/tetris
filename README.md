@@ -1,3 +1,5 @@
+NOTE: If you are currently in 15-112, do not look at this repository! 15-112 Instructors and TA's will be able to tell if you are cheating, especially in assignments like these. Reading code will make you naturally write code similar to it so save yourself the worry and do not look at this.
+
 HOW TO RUN:
 
 To use cmu_112_graphics.py, you need to have some modules installed. If they are not installed, you will see a message like this (or a similar one for "requests" instead of "PIL"):
